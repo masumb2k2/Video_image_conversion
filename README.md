@@ -5,12 +5,6 @@
 > A compact collection of Python utilities for extracting frames from videos, capturing frames in real time, and doing simple image batch tasks.
 > Designed to be minimal, easy to use, and ready to integrate into larger computer-vision or media-processing workflows.
 
-## Project snapshot
-
-This repository contains a set of single-purpose Python scripts to convert video → images, capture frames interactively, and perform basic batch image operations. The project is implemented in **Python** and currently contains multiple handy scripts (see **Files & Scripts** below). ([GitHub][1])
-
----
-
 ## Features ✨
 
 * Extract every frame from a video (frame-by-frame).
